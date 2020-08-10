@@ -1,0 +1,81 @@
+
+.bg-menu {
+	background-color: #246068;
+
+}
+
+.btn-menu {
+	background-color: #FFFFFF;
+	color: #246068;
+}
+
+.btn-menu:hover {
+	background-color: #FFFFFF;
+	color: #49848D;
+}
+
+.drop-menu {
+	background-color: #246068;
+}
+.right-menu {
+	background-color: #246068;
+}
+
+.navbar-test {
+	background-color: #246068;
+}
+
+.carousel .carousel-item {
+    transition-duration: 2s;
+}
+
+.page-img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.blurb {
+	width:100%;
+	padding-top: 3em;
+	padding-bottom: 4em;
+	margin: 0 auto;
+
+}
+
+.parallax { 
+  /* The image used */
+  background-image: url("file:///Users/mshohet/Dev/WebDev/now-ui-kit-master/assets/img/bg11.jpg");
+
+  /* Set a specific height */
+  height: 100%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.camp {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 12vw;
+	justify-content: center;
+	color: #246068;
+	width: relative;
+}
+
+.credits {
+	font-size: 0.8571em;
+	text-align: center;
+}
+
+.copyright {
+	text-align: center;
+}
+
+.camp-logo {
+	width: 20%;
+	height: auto;
+}
